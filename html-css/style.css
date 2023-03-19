@@ -1,0 +1,56 @@
+td.kiri {
+    background-image: url("laptop.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: luminosity;
+    background-color:rgba(230, 159, 27, 0.651);
+    font-family: Arial, Helvetica, sans-serif;
+}  
+td.kanan {
+    background-color:rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1.satu{
+    color:azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.satu{
+    color:azure;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.dua{
+    color: yellow;
+    font-size: 25px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+select{
+    border:0px solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    height: 35px;
+    width: 250px;
+    text-align: center;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input.kirim{
+    height: 38px;
+    width: 250px;
+    color: white;
+    background-color:rgba(9, 27, 131, 0.815);
+}
+table.atas{
+    background-color:rgb(230, 159, 27);
+    font-family: Arial, Helvetica, sans-serif;
+}
+table.bawah{
+    background-color:rgb(230, 159, 27);
+    font-family: Arial, Helvetica, sans-serif;
+}
+option{
+    background-color:rgba(230, 159, 27, 0.651);
+    font-family: Arial, Helvetica, sans-serif;
+}
